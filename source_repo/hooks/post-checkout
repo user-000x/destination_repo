@@ -1,3 +1,0 @@
-#!/bin/bash
-
-echo 'Post-checkout hook triggered' > /tmp/test123.txt
